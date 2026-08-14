@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Local tool state (not part of the curated list)
+.omc/
+.claude-flow/
+.claude/
