@@ -29,6 +29,7 @@ AI coding agents are powerful because they can read files, run commands, install
 | [E2B](https://github.com/e2b-dev/E2B) | Open-source cloud runtime with Linux OS and SDK support | ⭐ 13.4k |
 | [AgentSphere](https://www.agentsphere.run/) | MicroVM sandboxes with MCP integration | - |
 | [Runloop](https://www.runloop.ai/) | Fast devboxes with snapshots and repo connections | - |
+| [Sandbox0](https://sandbox0.ai/) | Managed cloud computers with gVisor isolation and persistent writable RootFS checkpoints | - |
 | [Modal Sandboxes](https://modal.com/docs/guide/sandboxes) | Programmatic sandboxes at massive scale, sub-second startup | - |
 | [Deno Sandboxes](https://docs.deno.com/sandboxes/) | Millisecond boot times | - |
 | [Sprites](https://sprites.dev/) | Persistent Firecracker VMs with exec sessions | - |
